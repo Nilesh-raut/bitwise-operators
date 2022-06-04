@@ -1,10 +1,1 @@
-#include<iostream>
-using namespace std;
-int main(){
- 
-// cout<<"hi"<<endl;
-
-int 
- 
-return 0;
-}
+// go on leettcode problem no 1009; 
